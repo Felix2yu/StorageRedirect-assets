@@ -1,0 +1,16 @@
+{
+  "label": "苏e行",
+  "package": "com.bwton.szfreego",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616903186,
+    "version_name": "2.7.3",
+    "version_code": 20703000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

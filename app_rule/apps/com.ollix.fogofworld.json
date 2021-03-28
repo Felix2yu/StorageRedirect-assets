@@ -1,0 +1,16 @@
+{
+  "label": "世界迷雾",
+  "package": "com.ollix.fogofworld",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616903124,
+    "version_name": "2.3.12",
+    "version_code": 592
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

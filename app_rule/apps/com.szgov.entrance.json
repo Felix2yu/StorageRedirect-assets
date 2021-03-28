@@ -1,0 +1,16 @@
+{
+  "label": "苏周到",
+  "package": "com.szgov.entrance",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616903149,
+    "version_name": "1.4.0",
+    "version_code": 20210311
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

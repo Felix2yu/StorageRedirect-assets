@@ -1,0 +1,16 @@
+{
+  "label": "Flickr",
+  "package": "com.flickr.android",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616902794,
+    "version_name": "4.16.3",
+    "version_code": 40160030
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

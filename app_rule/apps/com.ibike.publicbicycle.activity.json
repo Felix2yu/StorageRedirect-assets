@@ -1,0 +1,16 @@
+{
+  "label": "永安行",
+  "package": "com.ibike.publicbicycle.activity",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1616902677,
+    "version_name": "5.7",
+    "version_code": 110
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

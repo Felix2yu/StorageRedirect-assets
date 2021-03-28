@@ -1,0 +1,16 @@
+{
+  "label": "莉景天气",
+  "package": "com.zdbq.ljtq.ljweather",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616903295,
+    "version_name": "1.2.11",
+    "version_code": 22
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

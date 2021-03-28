@@ -1,0 +1,16 @@
+{
+  "label": "书香苏州",
+  "package": "com.jartoo.mylib",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616903365,
+    "version_name": "2.39",
+    "version_code": 84
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

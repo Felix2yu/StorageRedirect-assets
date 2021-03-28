@@ -1,0 +1,16 @@
+{
+  "label": "同程旅行",
+  "package": "com.tongcheng.android",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616903391,
+    "version_name": "10.1.3",
+    "version_code": 254
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

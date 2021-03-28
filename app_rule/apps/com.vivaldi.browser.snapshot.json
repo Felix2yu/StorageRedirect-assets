@@ -1,0 +1,16 @@
+{
+  "label": "Vivaldi Snapshot",
+  "package": "com.vivaldi.browser.snapshot",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616902923,
+    "version_name": "3.8.2237.3",
+    "version_code": 522370003
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

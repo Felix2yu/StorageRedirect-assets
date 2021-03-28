@@ -1,0 +1,16 @@
+{
+  "label": "要妳命三千",
+  "package": "cn.kwaiching.hook",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616902636,
+    "version_name": "21.03.07",
+    "version_code": 73
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

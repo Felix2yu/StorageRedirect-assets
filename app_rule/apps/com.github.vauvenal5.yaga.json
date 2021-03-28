@@ -1,0 +1,16 @@
+{
+  "label": "Yaga",
+  "package": "com.github.vauvenal5.yaga",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616902741,
+    "version_name": "0.23.2",
+    "version_code": 2302
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

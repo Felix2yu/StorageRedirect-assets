@@ -1,0 +1,16 @@
+{
+  "label": "点淘",
+  "package": "com.taobao.live",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616902950,
+    "version_name": "2.2.18",
+    "version_code": 71
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
