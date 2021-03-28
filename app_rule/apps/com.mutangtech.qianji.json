@@ -1,14 +1,16 @@
 {
-    "package": "com.mutangtech.qianji",
-    "verified": false,
-    "authors": [
-        "OldFanta"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "钱迹",
+  "package": "com.mutangtech.qianji",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616900826,
+    "version_name": "3.1.6",
+    "version_code": 481
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

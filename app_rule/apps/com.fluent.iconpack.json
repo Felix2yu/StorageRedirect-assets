@@ -1,0 +1,16 @@
+{
+  "label": "Fluent图标包",
+  "package": "com.fluent.iconpack",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616900967,
+    "version_name": "2.3.1",
+    "version_code": 2021010401
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

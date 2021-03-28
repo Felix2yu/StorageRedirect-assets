@@ -1,0 +1,16 @@
+{
+  "label": "Flint图标包",
+  "package": "com.flint.iconpack",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616900942,
+    "version_name": "1.1.0",
+    "version_code": 5
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

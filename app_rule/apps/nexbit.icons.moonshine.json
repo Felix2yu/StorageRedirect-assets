@@ -1,0 +1,16 @@
+{
+  "label": "Moonshine",
+  "package": "nexbit.icons.moonshine",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616901155,
+    "version_name": "3.2.9",
+    "version_code": 329
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "Windy",
+  "package": "com.windyty.android",
+  "authors": [
+    "Felix2yu"
+  ],
+  "last_update": {
+    "timestamp": 1616901316,
+    "version_name": "28.1.1",
+    "version_code": 2801002
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

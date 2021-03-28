@@ -1,14 +1,16 @@
 {
+    "label": "地铁通",
     "package": "com.xinlukou.metroman",
-    "verified": true,
     "authors": [
-        "galentwww"
+      "Felix2yu"
     ],
     "last_update": {
-        "timestamp": 1573909761
+      "timestamp": 1616900495,
+      "version_name": "11.2.0",
+      "version_code": 20200928
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+      "@abuse"
     ]
-}
+  }
