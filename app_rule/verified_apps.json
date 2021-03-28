@@ -1,6 +1,36 @@
 [
     {
-        "package": "accky.kreved.skrwt.skrwt"
+        "package": "com.windyty.android"
+    },
+    {
+        "package": "com.mc.miband1"
+    },
+    {
+        "package": "com.cylonid.nativealpha"
+    },
+    {
+        "package": "nexbit.icons.moonshine"
+    },
+    {
+        "package": "net.cozic.joplin"
+    },
+    {
+        "package": "com.fluent.iconpack"
+    },
+    {
+        "package": "com.flint.iconpack"
+    },
+    {
+        "package": "com.clover.myweather"
+    },
+    {
+        "package": "com.mutangtech.qianji"
+    },
+    {
+        "package": "com.opaldnay.quehua.icons"
+    },
+    {
+        "package": "com.opaldnay.quehua.icons"
     },
     {
         "package": "android.substratum.service"
@@ -94,9 +124,6 @@
     },
     {
         "package": "cn.marno.readhubplus"
-    },
-    {
-        "package": "cn.metroman.railman"
     },
     {
         "package": "cn.mm.gk"
@@ -2134,9 +2161,6 @@
     },
     {
         "package": "com.ximalaya.ting.himalaya"
-    },
-    {
-        "package": "com.xinlukou.metroman"
     },
     {
         "package": "com.xjcheng.musictageditor"

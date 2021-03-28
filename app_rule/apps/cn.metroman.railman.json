@@ -1,14 +1,16 @@
 {
+    "label": "高铁通",
     "package": "cn.metroman.railman",
-    "verified": true,
     "authors": [
-        "galentwww"
+      "Felix2yu"
     ],
     "last_update": {
-        "timestamp": 1573909761
+      "timestamp": 1616900682,
+      "version_name": "1.0.0",
+      "version_code": 20191028
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+      "@abuse"
     ]
-}
+  }
